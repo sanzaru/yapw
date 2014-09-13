@@ -1,0 +1,10 @@
+###############################################################
+# This is the main configuration file for the YAPW webserver. #
+###############################################################
+
+
+# The maximum of connections YAPW can take
+_MAXCLI 200
+
+# The portnumber
+_PORTNO 801

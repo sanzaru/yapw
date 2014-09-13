@@ -1,0 +1,77 @@
+YAPW - Yet another python webserver
+------------------------------------
+
+Contents:
+---------
+    I.   Introduction
+    II.  System requirements
+    III. Installation
+    IV.  Known bugs
+    V.   Contact
+	
+	
+I. Introduction:
+----------------
+YAPW is a very simple webserver written in python. Until now, it only can host plain HTML files.
+Support for javascript is planed!
+
+IMPORTANT NOTE:
+---------------
+YAPW is for educational use only! Don't use YAPW on productive systems!
+
+	
+I. System requirements:
+-----------------------
+
+    * Computer with at least 233 MHz and 64 MB RAM is recommended
+    * 50 MB of hard disk space
+    * On Unix machines you have to install python, if not already installed. You can download
+	  python at: http://www.python.org/download/
+	  
+	  The Windows port of the program is powered by Portable Python (http://www.portablepython.com/)
+	  and so no installed version of python is needed.
+
+
+
+II. Installation / Uninstallation:
+----------------------------------
+Installing YAPW is very easy! 
+
+Windows:
+--------
+If you have downloaded the installer package just run the setup.exe and follow the instructions.
+To install the zip package, just unzip it to the desired destination and open the yapw.cnf file in your installation directory to set the properties. 
+After that run the yapw.bat file in the directory.
+
+
+Linux:
+------
+Copy the yapw-X-X-Xz folder to the desired location (e.g. /home/user/bin/) and open the yapw.cnf file in your installation directory to set the properties.
+
+After that run the command: python yapw.py
+
+
+
+Uninstallation:
+---------------
+Windows:
+--------
+Run the uninstall.exe in your YAPW installation folder or choose "Uninstall YAPW" in the 
+start menu.
+
+Linux:
+------
+For deleting YAPW from your system simply delete the installation folder and you're done!
+Back up your www directory before deleting, if you wanna keep your html files!
+
+
+III. Known bugs:
+----------------
+Fortunately there are now bugs for now!
+
+
+IV. Contact:
+------------
+For more information and support visit: http://code.javacoffee.de/
+Copyright (C) 2008 Martin Albrecht <martin.albrecht@javacoffee.de>
+

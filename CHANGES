@@ -1,0 +1,9 @@
+YAPW - Yet another python webserver
+===================================
+
+Changes
+--------
+
+Version 0.0.1b:
+
+    - Multiple connections at the same time are now possible.
