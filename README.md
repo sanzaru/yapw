@@ -7,7 +7,7 @@ Support for javascript is planed!
 
 IMPORTANT NOTE:
 
-YAPW is for educational use only! Don't use YAPW on productive systems!
+**YAPW is for educational use only! Don't use YAPW on productive systems!**
 
 I. System requirements:
 
